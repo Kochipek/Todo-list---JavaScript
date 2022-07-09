@@ -1,5 +1,5 @@
 # Todo-list--JavaScript 🟡
-Local storage will be added
+Local storage will be added later
 <br>
 <br>
 <hr>
